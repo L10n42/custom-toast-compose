@@ -54,7 +54,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.L10n42'
-                artifactId = 'CustomToastCompose'
+                artifactId = 'customtoastcompose'
                 version = '1.0.0'
             }
         }
